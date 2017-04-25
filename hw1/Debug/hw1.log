@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(30): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(78): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(100): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(105): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(120): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(125): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(168): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(169): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(189): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2017npr\hw1\hw1\main.cpp(190): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  hw1.vcxproj -> D:\Code\NCTU\2017NPR\hw1\Debug\hw1.exe
+  hw1.vcxproj -> D:\Code\NCTU\2017NPR\hw1\Debug\hw1.pdb (Partial PDB)
